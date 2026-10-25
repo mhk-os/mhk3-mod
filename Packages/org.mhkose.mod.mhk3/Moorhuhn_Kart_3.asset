@@ -16,7 +16,7 @@ MonoBehaviour:
   title: Moorhuhn Kart 3
   author: Phenomedia / Sproing (original), MHK:OSE port
   version: 
-  description: Tracks, powerups and the characters Alien, Monkey and Death of Moorhuhn Kart 3 (2007).
+  description: Tracks, powerups and the characters Alien, Affe and Tod of Moorhuhn Kart 3 (2007).
   loadOrder: 30
   includes: []
   logo: {fileID: 2800000, guid: 878e9024ef73420ab277aabb5d7e1659, type: 3}
@@ -74,6 +74,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: de03ca819b9fa43f3baed9f3ee9d14a8, type: 2}
   - {fileID: 11400000, guid: 0b3644401e5ab4c09a3a8a4c01d88a9c, type: 2}
   - {fileID: 11400000, guid: 82699a9f29abd486489b25ebd0bc9709, type: 2}
+  - {fileID: 11400000, guid: 4d12065b6a8b51b0a0b8e0741980fdcf, type: 2}
+  - {fileID: 11400000, guid: 45c955e709e051d0ab63ef74a7c2e740, type: 2}
   sdkVersion: 
   unityVersion: 
   buildTarget: 
