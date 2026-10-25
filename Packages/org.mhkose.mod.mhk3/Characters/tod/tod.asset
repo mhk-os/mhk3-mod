@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: tod
   m_EditorClassIdentifier: MHK.Runtime::MHK.Modding.CharacterDefinition
   id: mhk3.tod
-  displayName: Death
+  displayName: Tod
   sourceGame: mhk3
   icon: {fileID: 2800000, guid: 6bb8599c13cfb4be3a911b7cb199d05f, type: 3}
   hidden: 0
