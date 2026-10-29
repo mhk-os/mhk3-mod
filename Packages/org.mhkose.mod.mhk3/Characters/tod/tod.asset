@@ -15,7 +15,7 @@ MonoBehaviour:
   id: mhk3.tod
   displayName: Tod
   sourceGame: mhk3
-  icon: {fileID: 2800000, guid: 6bb8599c13cfb4be3a911b7cb199d05f, type: 3}
+  icon: {fileID: 2800000, guid: 0e8ca2558ed664959a789812445707dc, type: 3}
   hidden: 0
   driverPrefab: {fileID: 2579224360064996338, guid: b99d74f08c5a944d993dd1290100ac70, type: 3}
   modelScale: 1.2448269
