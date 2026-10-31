@@ -15,7 +15,7 @@ MonoBehaviour:
   id: mhk3.alien
   displayName: Alien
   sourceGame: mhk3
-  icon: {fileID: 2800000, guid: 6b37a2dd86d8d40af851d57223ed0d79, type: 3}
+  icon: {fileID: 2800000, guid: 667195a8814ad47eca2861897f3bd483, type: 3}
   hidden: 0
   driverPrefab: {fileID: 7155934331782219909, guid: 9639f06a29d8d426aa76306758d546d0, type: 3}
   modelScale: 1.4144899
