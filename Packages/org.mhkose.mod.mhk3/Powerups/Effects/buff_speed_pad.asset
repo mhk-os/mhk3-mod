@@ -39,7 +39,7 @@ MonoBehaviour:
   upwardImpulse: 0
   respawnOnEnd: 0
   respawnBackDistance: 15
-  gravityMultiplier: 1
+  gravityMultiplier: 1.5625
   landingEffect: {fileID: 0}
   endOnLanding: 0
   blocksHostileEffects: 0
