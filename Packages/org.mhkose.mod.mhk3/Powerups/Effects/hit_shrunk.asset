@@ -27,7 +27,7 @@ MonoBehaviour:
   steeringMultiplier: 1
   gripMultiplier: 1
   forwardImpulse: 0
-  velocityRetain: 1
+  velocityRetain: 0.27
   velocityDamping: 0
   lockControls: 0
   forceThrottle: 0
