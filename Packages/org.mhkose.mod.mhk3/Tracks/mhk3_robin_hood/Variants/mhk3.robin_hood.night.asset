@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53e125eaaa8243c8b3964fc5ee1a61aa, type: 3}
+  m_Name: mhk3.robin_hood.night
+  m_EditorClassIdentifier: MHK.Runtime::MHK.Modding.TrackOverlayDefinition
+  id: mhk3.robin_hood.night
+  displayName: 'Robin Hood: Night'
+  sourceGame: mhk3
+  icon: {fileID: 0}
+  hidden: 0
+  trackId: mhk3.robin_hood
+  optionId: core.night
+  isDefault: 0
+  scene:
+    asset: {fileID: 102900000, guid: aa4bac6ef3c894ca79db5c5724009730, type: 3}
+    path: Packages/org.mhkose.mod.mhk3/Tracks/mhk3_robin_hood/mhk3_robin_hood.night.unity
+  contentVersion: 1
