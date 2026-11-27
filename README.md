@@ -6,6 +6,12 @@ Moorhuhn Kart 3 as a mod for Moorhuhn Kart: Open Source Edition, with 8 tracks, 
 
 Music (including menu/title/highscore cues) is normalized per song to -16 LUFS. Effects use one attenuation-only gain per source game, matching group medians to the quietest source while preserving intentional differences between cues; borrowed clips follow their source game's gain. Decoded peaks stay below 0 dBFS. Local cue gains and track music volumes are unchanged.
 
+## Drivers and karts
+
+Affe drives the MHK Thunder blue kart, Tod the MHK Thunder black one and Alien the MHK 3 orange kart. A driver whose default kart's mod is not installed takes the first kart of this mod. Each character's `handReach` and `seatOffset` seat it on every kart with its hands on the steering wheel.
+
+The kart's engine is its own part (`Chassis/Engine`), split from the chassis mesh with the SDK's `KartEngineSplitter`. The colour variants show it with their own material. It shakes while the kart runs and is drawn smaller in the 100cc and 50cc classes.
+
 ## Shrinker
 
 The shrink ray reduces kart size and engine top speed to 27%, with half acceleration, for 10 seconds. A hit also reduces current horizontal velocity to 27% so a kart cannot coast at its old speed after shrinking; vertical velocity is preserved. Driving modifiers return to normal when the effect ends.
